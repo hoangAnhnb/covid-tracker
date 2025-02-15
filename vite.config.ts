@@ -16,4 +16,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "https://github.com/hoangAnhnb/covid-tracker.git",
 });
